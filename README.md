@@ -11,5 +11,5 @@ Proffy é uma plataforma de cadastro de professores particulares. O projeto foi 
 - Git Bash
 - SQLite
 
-<img src=""/>
+<img src="https://github.com/Millenacost/NLW-2-Rocketseat/blob/main/proffy.gif"/>
 
